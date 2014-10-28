@@ -4,7 +4,7 @@
   <title><![CDATA[Ben Shaw]]></title>
   <link href="http://cakey.github.io/atom.xml" rel="self"/>
   <link href="http://cakey.github.io/"/>
-  <updated>2014-05-28T03:34:14-07:00</updated>
+  <updated>2014-10-27T23:02:45-07:00</updated>
   <id>http://cakey.github.io/</id>
   <author>
     <name><![CDATA[Ben Shaw]]></name>
@@ -14,27 +14,21 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Another Test Post]]></title>
-    <link href="http://cakey.github.io/blog/2014/05/28/another-test-post/"/>
-    <updated>2014-05-28T03:17:09-07:00</updated>
-    <id>http://cakey.github.io/blog/2014/05/28/another-test-post</id>
-    <content type="html"><![CDATA[<h3>Test Post</h3>
+    <title type="html"><![CDATA[Writing Is Hard]]></title>
+    <link href="http://cakey.github.io/blog/2014/10/27/writing-is-hard/"/>
+    <updated>2014-10-27T22:49:55-07:00</updated>
+    <id>http://cakey.github.io/blog/2014/10/27/writing-is-hard</id>
+    <content type="html"><![CDATA[<p>Writing is Hard.</p>
 
-<ul>
-<li>1</li>
-<li>2</li>
-<li>3</li>
-</ul>
+<p>Seriously hard.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Into]]></title>
-    <link href="http://cakey.github.io/blog/2014/05/28/into/"/>
-    <updated>2014-05-28T03:01:41-07:00</updated>
-    <id>http://cakey.github.io/blog/2014/05/28/into</id>
-    <content type="html"><![CDATA[<h2>Test</h2>
+<p>As someone who doesn&rsquo;t write nearly as much as I should it can be daunting to even begin.</p>
+
+<p>The main issue, for me at least, is the persuit of perfection &ndash; or more accurately and less egotistically &ndash; the inability to leave things out and focus on the main story I&rsquo;m trying to tell. I don&rsquo;t suffer from a lack of ideas on interesing topics, but whenever I finally find time (and willpower!) to write, I&rsquo;m often overwhelmed by how much I want to say. Words start flowing, but that don&rsquo;t stop. Before long I have paragraph after paragraph with increasingly ambitious scope, and increasingly less value, as all that&rsquo;s left is a flurry of half formed ideas &ndash; none of which achieving the intended goal of engaging on or persuading a particular point.</p>
+
+<p>As in many things, sometimes the most important and difficult steps are to start and then know when to stop. Then having something to show for it, however small.</p>
+
+<p>So here we are.</p>
 ]]></content>
   </entry>
   
