@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ben Shaw]]></title>
+  <link href="http://cakey.github.io/atom.xml" rel="self"/>
+  <link href="http://cakey.github.io/"/>
+  <updated>2014-05-28T03:34:14-07:00</updated>
+  <id>http://cakey.github.io/</id>
+  <author>
+    <name><![CDATA[Ben Shaw]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Another Test Post]]></title>
+    <link href="http://cakey.github.io/blog/2014/05/28/another-test-post/"/>
+    <updated>2014-05-28T03:17:09-07:00</updated>
+    <id>http://cakey.github.io/blog/2014/05/28/another-test-post</id>
+    <content type="html"><![CDATA[<h3>Test Post</h3>
+
+<ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Into]]></title>
+    <link href="http://cakey.github.io/blog/2014/05/28/into/"/>
+    <updated>2014-05-28T03:01:41-07:00</updated>
+    <id>http://cakey.github.io/blog/2014/05/28/into</id>
+    <content type="html"><![CDATA[<h2>Test</h2>
+]]></content>
+  </entry>
+  
+</feed>
