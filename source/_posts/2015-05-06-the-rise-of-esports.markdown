@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The rise of Esports."
+title: "The rise of E-sports."
 date: 2015-05-6 22:49:55 -0700
 comments: true
 categories:
@@ -74,16 +74,52 @@ The huge viewership means that tournaments of the biggest games have a captive a
 If the above didn't convince you, last year Twitch released an interesting study titled ["The New Face of Gamers"](http://blog.twitch.tv/wp-content/uploads/2014/06/TheNewFaceofGamers.pdf). According to the study, 63% of Americans of *all ages* have played a game on a console, computer or mobile device in the last 60 days. Gamers are split evenly by gender, lead more social lives than non gamers, and are more highly educated. 59% of gamers had watched more livestreaming content than the previous year, with 36% preferring streaming to conventional TV. At the time of writing. Twitch was responsible for 1.8% of peak internet traffic. Gaming is mainstream.
 
 
-### **OK, it's huge. Where are we heading?**
+### **OK, it's huge. Where are we heading? Where are the opportunities?**
 
 This is mostly speculation by me, but I think in many cases the trends will speak for themselves. Additionally, the examples will be bias in favor of Dota2 - as that's the area I'm most familiar with. Similar and often larger trends can be seen by other games such as League of Legends.
 
 **We're going mobile.**
 
-[Mobile game are overtaking console games.](http://fortune.com/2015/01/15/mobile-console-game-revenues-2015/). Traditionally, mobile games have been casual. Angry Birds, Candy Crush, and Clash of Clans rule the market. But I believe there's room for more competitive, multiplayer, skill based games, in the mould of Dota2, Starcraft and Coutner Strike. Latencies and bandwidth are increasingly becoming amenable to such types of gaming, and I believe that it's possible to shrink down a game, and simplify the controls, such that the teamwork and strategic awareness - which is what really makes the most competitive games thrive - is brought out.
+[Mobile game are overtaking console games](http://fortune.com/2015/01/15/mobile-console-game-revenues-2015/). Traditionally, mobile games have been casual. Angry Birds, Candy Crush, and Clash of Clans rule the market. But I believe there's room for more competitive, multiplayer, skill based games, in the mould of Dota2, Starcraft and Coutner Strike. Latencies and bandwidth are increasingly becoming amenable to such types of gaming, and I believe that it's possible to shrink down a game, and simplify the controls, such that the teamwork and strategic awareness - which is what really makes the most competitive games thrive - is brought out.
 
 Heartstone was recently released on smart phones, a digital card game made by Blizzard.
 [{% img https://cdn3.vox-cdn.com/thumbor/e2A4quoGMh4OKP2abRSH3cIrPIc=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3605148/HS-on-Phone-3.0.png %}](http://www.theverge.com/2015/4/14/8414229/hearthstone-iphone-android-smartphones)
+
  The game was already thriving, with tournaments and large Twitch viewer ship. Professional player 'TrumpSC' peaked at [77k](http://www.goldper10.com/stat/1530-hearthstone-streamer-stats-march-april-2015.html) concurrent viewers during April. The turn based nature of the game, with few moving parts relative to other games, makes it perfect for mobile - and will see the game grow beyond the [30M](http://www.polygon.com/2015/5/5/8554265/hearthstone-player-count-hits-30-million) players it already commands.
 
  Allowing regular gamers, a deep strategic multiplayer game, during spare moments of the day such as commuting is a hugely untapped market.
+
+** Professional broadcasting and distribution **
+
+We've talked about the size of Twitch, but there's also huge levels of production that go into the content covering tournaments. Camera angles, live commentary, statistics, pre and post analysis, player interviews, video and sound control. All traditional areas of sport broadcasting apply. Think ESPN. A prominent example is [Beyond The Summit](https://twitter.com/beyondthesummit) for Dota 2. They send teams across the world to various events to stream them live, building hype and engaging with fans.
+
+** Gaming Organisations **
+
+If you follow the esports scene - there are certain names that appear frequently and across games. Team Liquid, Evil Geniuses, Na`Vi, Fnatic, Cloud9, Invictus Gaming are some of the more well known organisations, but there are many more.
+
+These esports organisations pick up players and teams, who take their name when playing.
+This has a number of advantages - the organisation name usually has a history in the scene, and so will bring fans and reputability. Perhaps more importantly the organisation will help organise sponsors, travel arrangements to tournaments. It's fairly common for the organization to pay a salary to the players, helping them focus on their game, and reduce the volatility of prize money earnings. In some cases the salary can be quite substantial, but perhaps more interestingly, some players are finding that streaming can be [far more lucrative](http://www.ongamers.com/articles/we-play-here-so-you-don-t-have-to-embarrass-yourse/1100-2309/) than playing professionally.
+
+The brand and marketability of these esports teams will only grow in the future. Team branded merchandise is [common](http://shop.fnatic.com/) and is yet another way for the organisations to engage with fans.
+
+As salaries and budgets grow, we're likely to see regulatory bodies similar to traditional sports, helping to keep the scene fair and interesting.
+
+** Merchandise **
+
+We've discussed that gaming is larger than the movie industry. Consider that Disney makes $1B a quarter from merchandise from popular brands like Frozen and The Avengers. Of course, this is unfair comparison, Disney have huge amounts of experience advertising and distributing their products, and contracts with stores worldwide. But it does give an idea of where the industry might be heading. Is it really so unrealistic to suggest that children would have fluffy real versions of their favorite video game characters over movie characters, given the number of hours they spend playing? Anyone who was at school through the Pokemon craze can attest to how quickly characters from an engaging world can blow up.
+
+But perhaps Disney is the wrong example to learn from. While game creators are [slowly](https://na.merch.riotgames.com/en/) [catching on](http://store.valvesoftware.com/index.php?g=10), much of the explosion of merchandise is likely to come from decentralised individuals using sites such as Etsy (selling [nearly $2B](http://venturebeat.com/2015/03/04/etsys-54m-members-drove-1-93b-in-sales-last-year/) of products on their platform in 2014). The question is how tangential does a product need to be to avoid impinging on the intellectual property of the game creators.
+
+
+** Cosmetics **
+
+This whole piece has been a discussion of the huge market of games played in a virtual world. These virtual worlds have virtual merchandise too, known as cosmetics. Cosmetics are the primary revenue driver for many games, particularly Valve's Dota 2 and CS:GO. The basic idea is if your character has a sword, then you can show off in game by purchasing a sword that functions identically, but looks much better. Being software, there are endless aspects of the game that can be customised, leading to a very real luxury market. Dota 2 in particularly has success with customised weapons, armor, new animations, UI changes, in game voice changes, pets, loading screens and many more.
+
+Items can regularly reach [hundreds of dollars](http://csgostash.com/), with one Dota 2 item in particular reaching [$38k](http://www.therichest.com/rich-list/most-popular/10-of-the-most-expensive-virtual-items-in-video-games/7/). One glance at [high end art auctions](http://www.theguardian.com/news/datablog/2015/feb/10/the-10-most-expensive-paintings-ever-sold) should convince you that spending on things with aesthetic value can reach large amounts indeed.
+
+Most items, however, are much cheaper, 50c - $2 is common. This puts it firmly in impulse purchase range, where gamers can start spending far more than they realise. Most that spend, however, would tell you that a few dollars spent in a free game was good value for the hundreds or thousands of hours spent playing.
+
+Cosmetics are often designed and created by the community - Valve paid out [$57+m](http://www.rockpapershotgun.com/2015/01/30/steam-workshop-57-million-dollars/) to creators of in game items since 2011. 3D modelling skills and tools in the context of gaming will inevitably grow and present many opportunities for making money.
+
+
+** Betting, Analytics, Trading and other 3rd party services.
