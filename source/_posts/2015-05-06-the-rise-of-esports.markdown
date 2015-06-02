@@ -56,7 +56,7 @@ But the point is to demonstrate the already massive scale of competitive gaming 
 
 **The game industry itself is huge.**
 
-Global revenue of the video game industry was [$100B in 2014](http://www.gartner.com/newsroom/id/2614915)- nearly [3 times the movie industry](http://www.mpaa.org/wp-content/uploads/2015/03/MPAA-Theatrical-Market-Statistics-2014.pdf). [Grand Theft Auto V made $1B in 3 days](http://www.ign.com/articles/2013/09/20/gta-5-sales-hit-1-billion-in-three-days), while Minecraft was sold for [$2.5B](http://www.polygon.com/2014/9/15/6151559/microsoft-buys-minecraft-mojang) to Microsoft. Developers of games such as Clash of Clans and Candy Crush make an [obscene amount of money](http://venturebeat.com/2015/03/24/clash-of-clans-developer-supercells-revenues-tripled-in-2014/).
+Global revenue of the video game industry was [$100B in 2014](http://www.gartner.com/newsroom/id/2614915)- nearly [3 times the movie industry](http://www.mpaa.org/wp-content/uploads/2015/03/MPAA-Theatrical-Market-Statistics-2014.pdf). [Grand Theft Auto V made $1B in 3 days](http://www.ign.com/articles/2013/09/20/gta-5-sales-hit-1-billion-in-three-days), while Minecraft was sold for [$2.5B](http://www.polygon.com/2014/9/15/6151559/microsoft-buys-minecraft-mojang) to Microsoft. Developers of games such as Clash of Clans and Candy Crush make an [obscene amount of money](http://venturebeat.com/2015/03/24/clash-of-clans-developer-supercells-revenues-tripled-in-2014/). Candy Crush developer King made $2.26B in revenue in 2014. Clash of Clans developer made 10x the revenue per employee tech giant Google.
 
 This doesn't necessarily all lead to more competitive gaming, but games being thoroughly main stream means that the concept of playing video games is hardly foreign.
 
@@ -89,11 +89,11 @@ Heartstone was recently released on smart phones, a digital card game made by Bl
 
  Allowing regular gamers, a deep strategic multiplayer game, during spare moments of the day such as commuting is a hugely untapped market.
 
-** Professional broadcasting and distribution **
+** We're talking professional broadcasting and distribution **
 
 We've talked about the size of Twitch, but there's also huge levels of production that go into the content covering tournaments. Camera angles, live commentary, statistics, pre and post analysis, player interviews, video and sound control. All traditional areas of sport broadcasting apply. Think ESPN. A prominent example is [Beyond The Summit](https://twitter.com/beyondthesummit) for Dota 2. They send teams across the world to various events to stream them live, building hype and engaging with fans.
 
-** Gaming Organisations **
+** There's Gaming Organisations **
 
 If you follow the esports scene - there are certain names that appear frequently and across games. Team Liquid, Evil Geniuses, Na`Vi, Fnatic, Cloud9, Invictus Gaming are some of the more well known organisations, but there are many more.
 
@@ -104,16 +104,16 @@ The brand and marketability of these esports teams will only grow in the future.
 
 As salaries and budgets grow, we're likely to see regulatory bodies similar to traditional sports, helping to keep the scene fair and interesting.
 
-** Merchandise **
+** Plenty of Merchandise **
 
-We've discussed that gaming is larger than the movie industry. Consider that Disney makes $1B a quarter from merchandise from popular brands like Frozen and The Avengers. Of course, this is unfair comparison, Disney have huge amounts of experience advertising and distributing their products, and contracts with stores worldwide. But it does give an idea of where the industry might be heading. Is it really so unrealistic to suggest that children would have fluffy real versions of their favorite video game characters over movie characters, given the number of hours they spend playing? Anyone who was at school through the Pokemon craze can attest to how quickly characters from an engaging world can blow up.
+We've discussed that gaming is larger than the movie industry. Consider that Disney makes [$1B a quarter](http://thewaltdisneycompany.com/sites/default/files/reports/q2-fy15-earnings.pdf) from merchandise from popular brands like Frozen and The Avengers. Of course, this is unfair comparison, Disney have huge amounts of experience advertising and distributing their products, and contracts with stores worldwide. But it does give an idea of where the industry might be heading. Is it really so unrealistic to suggest that children would have fluffy real versions of their favorite video game characters over movie characters, given the number of hours they spend playing? Anyone who was at school through the Pokemon craze can attest to how quickly characters from an engaging world can blow up.
 
 But perhaps Disney is the wrong example to learn from. While game creators are [slowly](https://na.merch.riotgames.com/en/) [catching on](http://store.valvesoftware.com/index.php?g=10), much of the explosion of merchandise is likely to come from decentralised individuals using sites such as Etsy (selling [nearly $2B](http://venturebeat.com/2015/03/04/etsys-54m-members-drove-1-93b-in-sales-last-year/) of products on their platform in 2014). The question is how tangential does a product need to be to avoid impinging on the intellectual property of the game creators.
 
 
-** Cosmetics **
+** Cosmetics - Merchandise 2.0? **
 
-This whole piece has been a discussion of the huge market of games played in a virtual world. These virtual worlds have virtual merchandise too, known as cosmetics. Cosmetics are the primary revenue driver for many games, particularly Valve's Dota 2 and CS:GO. The basic idea is if your character has a sword, then you can show off in game by purchasing a sword that functions identically, but looks much better. Being software, there are endless aspects of the game that can be customised, leading to a very real luxury market. Dota 2 in particularly has success with customised weapons, armor, new animations, UI changes, in game voice changes, pets, loading screens and many more.
+This whole piece has been a discussion of the huge market of games played in a virtual world. These virtual worlds have virtual merchandise too, known as cosmetics. Cosmetics are the primary revenue driver for many games, particularly Valve's Dota 2 and CS:GO. The basic idea is if your character has a sword, then you can show off in the game by purchasing a sword that functions identically, but has flames bursting from the hilt while a golden unicorn dances around the blade. Some people really don't care, others want to show off how rare and expensive their flaming unicorn dagger is, and others just like it aesthetically. But regardless, it's a great business model - the game can be free, but profitable, and all without negatively affecting game play. Being software, there are endless aspects of the game that can be customised, leading to a very real luxury market. Dota 2 in particularly has success with customised weapons, armor, new animations, UI changes, in game voice changes, pets, loading screens and many more.
 
 Items can regularly reach [hundreds of dollars](http://csgostash.com/), with one Dota 2 item in particular reaching [$38k](http://www.therichest.com/rich-list/most-popular/10-of-the-most-expensive-virtual-items-in-video-games/7/). One glance at [high end art auctions](http://www.theguardian.com/news/datablog/2015/feb/10/the-10-most-expensive-paintings-ever-sold) should convince you that spending on things with aesthetic value can reach large amounts indeed.
 
