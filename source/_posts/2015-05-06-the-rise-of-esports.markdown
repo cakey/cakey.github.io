@@ -76,7 +76,7 @@ If the above didn't convince you, last year Twitch released an interesting study
 
 ### **OK, it's huge. Where are we heading? Where are the opportunities?**
 
-This is mostly speculation by me, but I think in many cases the trends will speak for themselves. Additionally, the examples will be bias in favor of Dota2 - as that's the area I'm most familiar with. Similar and often larger trends can be seen by other games such as League of Legends.
+This is mostly speculation by me, but I think in many cases the trends will speak for themselves. The examples will bias in favor of Dota2 - as that's the area I'm most familiar with. Similar and often larger trends can be seen by other games such as League of Legends.
 
 **We're going mobile.**
 
@@ -122,4 +122,18 @@ Most items, however, are much cheaper, 50c - $2 is common. This puts it firmly i
 Cosmetics are often designed and created by the community - Valve paid out [$57+m](http://www.rockpapershotgun.com/2015/01/30/steam-workshop-57-million-dollars/) to creators of in game items since 2011. 3D modelling skills and tools in the context of gaming will inevitably grow and present many opportunities for making money.
 
 
-** Betting, Analytics, Trading and other 3rd party services.
+** Betting **
+
+Traditional sports are no stranger to gambling. The two activities have likely been entwined since the dawn of civilization. In the UK, betting companies such as Ladbrokes and William Hill are very familiar faces among shops - and have a big presence online through competitors like bet365 and paddy power - often taking prominent advertising slots for major sporting events.
+
+You've probably guessed where this is going - E-Sports betting is huge, and naturally, growing quickly with the scene. Sites like [http://dota2lounge.com/](http://dota2lounge.com/) let you place bets on competitive games by using your in game items - which have a real liquid monetary value due to the steam marketplace. The odds are determined by the automatically adjusting based on how people are voting, and usually end up reasonably accurate. If we pick a recent game, such as the final of the European qualifier for The International 2015, we see that [~50500 people placed ~236000 items](http://dota2lounge.com/match?m=6913). This was a popular game, but often there can be dozens of games per day.
+
+*The UI for placing a bet on dota2 lounge (notice the dollar value!)*
+{% img /images/esports/dota2lounge.png %}
+
+There are other sites too. [https://vulcun.com/](https://vulcun.com/) emerged recently - claiming to have paid out $1.6m in the last 3 months, with a $10m total prize pool. It's a slick website at least, and has seen coverage through major sponsorship of recent teams and tournaments. It works like fantasy sports - allowing you to choose players for your team, and then enter those teams into leagues. Placing highly will win your rewards, and most of the highest rewarding leagues have some sort of buy in.
+
+*Vulcun.*
+{% img /images/esports/vulcun.png %}
+
+
