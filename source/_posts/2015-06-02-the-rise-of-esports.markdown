@@ -10,9 +10,9 @@ categories:
 
 ### **10 million dollars.**
 
-This year marks Valve's 5th Dota2 championship: The International. After only 1 month of fundraising it's raised a whopping $10 million dollars in prize pool. Dota2 is a multiplayer online game where at its core, 5 virtual magical characters bash 5 other virtual magical characters until victory. All watched by [20M](http://www.polygon.com/2014/7/29/5949773/dota-2-the-international-tournament-20-million-viewers) global viewers.
+This year marks Valve's 5th Dota2 championship: The International. After only one month of fundraising it's raised a whopping $10 million dollars in prize pool. Dota2 is a multiplayer online game where at its core, five virtual magical characters bash five other virtual magical characters until victory. All watched by [20 million global viewers](http://www.polygon.com/2014/7/29/5949773/dota-2-the-international-tournament-20-million-viewers).
 
-25% of compendium sales goes towards the prize pool, an in-game item granting various effects. But really, this is about fans of the hugely popular Dota2 engaging with the game's marquee tournament. Where they get to see the world's 16 best teams of 5 players from around the world compete for historic money.
+The prize pool is largely crowd funded by selling Compendiums - an in-game item granting various effects. 25% of compendium sales goes towards the prize pool, and players can spend more money for additional benefits. The benefits to the players are good, but this is really about fans of the hugely popular Dota2 engaging with the game's marquee tournament. Where they get to see the world's 16 best teams of 5 players from around the world compete for historic money.
 
 *A similar League of Legends tournament*
 [{% img https://cdn3.vox-cdn.com/thumbor/H87xKclMEt0k9MszL4YwhbSuTHg=/24x0:1065x586/1280x720/cdn0.vox-cdn.com/uploads/chorus_image/image/37790004/league_of_legends_world_championships_staples_crowd.0.jpg %}](http://www.polygon.com/2014/9/1/6094129/league-of-legends-world-championship-poised-to-sell-out-sangam-stadium)
@@ -69,26 +69,27 @@ This doesn't necessarily all lead to more competitive gaming, but games being th
 Anyone can start posting content online and become wildly popular. In the gaming world, there are real celebrities making huge amounts of money from streaming themselves playing video games. The most notable example is [PewDiePie](https://twitter.com/pewdiepie).
 His 5.9 Million twitter followers puts him firmly with the names of biggest celebrities in the world. The failure of traditional media to capture his popularity merely highlights the shift in reporting that's happening.
 Compare Tiger Woods at [4.5M followers](https://twitter.com/TigerWoods). Beyonce at [14M](https://twitter.com/Beyonce). Kobe Bryant at [6.6M](https://twitter.com/kobebryant). Rafa Nadal at [7.9M](https://twitter.com/kobebryant). Leonardo DiCaprio with [12.8M](https://twitter.com/LeoDiCaprio).
-His [instagram](https://instagram.com/pewdiepie/) account has 4.2m followers. PewDiePie's youtube account has an utterly ridiculous [37 Million](https://www.youtube.com/user/PewDiePie) subscribers. By far the most on youtube, holding the top spot since December 2013.
+His [instagram](https://instagram.com/pewdiepie/) account has 4.2m followers. PewDiePie's youtube account has an utterly ridiculous [37 Million](https://www.youtube.com/user/PewDiePie) subscribers - by far the most on youtube, holding the top spot since December 2013.
 
 An extreme example, But an extreme example of a real underlying trend. Content is becoming distributed. It's easier than ever for individuals to reach huge audiences through platforms such as youtube and twitch. Last year, [Twitch broke 100M unique monthly viewers](http://www.twitch.tv/year/2014), leading Amazon to acquire them for [over $1 Billion](http://techcrunch.com/2014/08/25/amazon-will-buy-twitch-for-over-1-billion/). When you consider Netflix's Market Cap of [$35B](https://www.google.com/finance?q=NASDAQ:NFLX), and the relative size of the video game industry, then perhaps the price of twitch looks almost modest.
 
 The huge viewership means that tournaments of the biggest games have a captive audience. Beyond The Summit, one of many Dota2 studios providing content and streaming commentary for the game's competitive scene, is Twitch's [3rd most viewed channel](https://socialblade.com/twitch/user/beyondthesummit). Their popularity allows them to [host $300k tournaments](http://dota2.prizetrac.kr/thesummit3) with the best teams in the world.
 It's also very common for professional gamers to engage with their fans by streaming themselves playing the game in the regular, non competitive modes - often with commentary. Subscriber and donation money supplement their income and help keep them popular.
-They can easily engage with fans through Twitch chat, Reddit, twitter and other social media - and can show case their personality in casual games, while also showing of their skill in comparison to regular players.
+They can easily engage with fans through Twitch chat, Reddit, twitter and other social media - and can showcase their personality in casual games, while also showing of their skill in comparison to regular players.
 You can understand the popularity of such streams and the entertainment to their fans by likening it to Ronaldo or Messi broadcasting themselves playing 5-a-side with their friends while joking around.
 
 **Gaming is mainstream.**
 
-If the above didn't convince you, last year Twitch released an interesting study titled ["The New Face of Gamers"](http://blog.twitch.tv/wp-content/uploads/2014/06/TheNewFaceofGamers.pdf). According to the study, 63% of Americans of *all ages* have played a game on a console, computer or mobile device in the last 60 days. Gamers are split evenly by gender, lead more social lives than non gamers, and are more highly educated. 59% of gamers had watched more livestreaming content than the previous year, with 36% preferring streaming to conventional TV. At the time of writing. Twitch was responsible for 1.8% of peak internet traffic.
+If the above didn't convince you, last year Twitch released an interesting study titled ["The New Face of Gamers"](http://blog.twitch.tv/wp-content/uploads/2014/06/TheNewFaceofGamers.pdf). According to the study, 63% of Americans of *all ages* have played a game on a console, computer or mobile device in the last 60 days. Gamers are split evenly by gender, lead more social lives than non gamers, and are more highly educated. 59% of gamers had watched more livestreaming content than the previous year, with 36% preferring streaming to conventional TV. At the time of writing. Twitch was responsible for 1.8% of peak internet traffic. Gaming is mainstream.
 
-Gaming is mainstream.
+Ubiquitous fast internet has allowed gaming to move from just escapism and relaxation to widespread competition and a social platform. There's a generational aspect too, with young fans turning into adults with the disposable income to watch the pros play the games they loved.
+
 
 
 ### **OK, it's huge. Where are we heading? What are the opportunities?**
 
 I want to touch on areas that will grow rapidly alongside gaming and e-sports.
-The examples will bias in favor of Dota2 - as that's the area I'm most familiar with. Similar and often larger trends can be seen by other games such as League of Legends.
+The examples will bias in favor of Dota2 - as that's the area I'm most familiar with. Similar and often larger trends can be seen with other games such as League of Legends.
 
 **We're going mobile.**
 
@@ -100,7 +101,7 @@ Heartstone was recently released on smart phones, a digital card game made by Bl
 
  The game was already flourishing, with tournaments and large Twitch viewership. Professional player 'TrumpSC' peaked at [77k](http://www.goldper10.com/stat/1530-hearthstone-streamer-stats-march-april-2015.html) concurrent viewers during April 2015. The turn based nature of the game, with few moving parts relative to other games, makes it perfect for mobile - and will see the game grow beyond the [30M](http://www.polygon.com/2015/5/5/8554265/hearthstone-player-count-hits-30-million) players it already commands.
 
- Allowing regular gamers, a deep strategic multiplayer game, during spare moments of the day such as commuting is a hugely untapped market.
+ Allowing regular gamers a deep strategic multiplayer game, during spare moments of the day such as commuting is a hugely untapped market.
 
 ** We're talking professional broadcasting and distribution **
 
@@ -131,9 +132,9 @@ Team Liquid, Evil Geniuses, Na`Vi, Fnatic, Cloud9, Invictus Gaming are some of t
 These esports organisations pick up players and teams, who take their name when playing.
 This has a number of advantages - the organisation name usually has a history in the scene, and so will bring fans and reputability. Perhaps more importantly the organisation will help organise sponsors and travel arrangements to tournaments. It's fairly common for the organization to pay a salary to the players, helping them focus on their game, and reduce the volatility of prize money earnings. In some cases the salary can be quite substantial, but perhaps more interestingly, some players are finding that streaming can be [far more lucrative](http://www.ongamers.com/articles/we-play-here-so-you-don-t-have-to-embarrass-yourse/1100-2309/) than playing professionally.
 
-The brand and marketability of these esports teams will only grow in the future. Team branded merchandise is [common](http://shop.fnatic.com/) and is yet another way for the organisations to engage with fans.
+The brand and marketability of these esports teams will only grow in the future. Brands are important for narrative which is important for engagement. Titans, underdogs, long rivalries and drama all create entertaining stories. The audience reach of e-sports will be all about the entertainment value of following teams, players, and tournaments. Creating stories and sharing those with fans is key.
 
-As salaries and budgets grow, we're likely to see regulatory bodies similar to traditional sports, helping to keep the scene fair and interesting.
+As salaries and budgets grow, we're also likely to see regulatory bodies similar to traditional sports, helping to keep the scene fair and interesting.
 
 ** Plenty of Merchandise **
 
@@ -156,6 +157,8 @@ Most that spend, however, would tell you that a few dollars spent in a free game
 
 Cosmetics are often designed and created by the community - Valve paid out [$57+m](http://www.rockpapershotgun.com/2015/01/30/steam-workshop-57-million-dollars/) to creators of in game items since 2011. 3D modelling skills and tools in the context of gaming will inevitably grow and present many opportunities for making money.
 
+Cosmetics share many similarities with high end fashion brands. As more money and status is tied to games, so will the scale of virtual items. Virtual reality coming to games in the near future that will have a tremendous impact on how virtual characters and their appearances are perceived.
+
 
 ** Betting **
 
@@ -171,6 +174,7 @@ There are other sites too. [Vulcun](https://vulcun.com/) emerged recently - clai
 *Vulcun*
 {% img /images/esports/vulcun.png %}
 
+The growth of betting in competitive gaming shows just how engaged fans are. Engaged fans are happy spending large sums to be involved in the storylines created and being part of the community.
 
 ** And other third party websites. **
 
