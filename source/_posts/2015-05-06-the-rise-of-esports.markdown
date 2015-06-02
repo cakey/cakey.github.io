@@ -8,11 +8,14 @@ categories:
 
 [{% img /images/esports/ti5prize.png %}](http://www.dota2.com/international/compendium/)
 
-### **6 million dollars.**
+### **10 million dollars.**
 
-This is the prize pool, after only 6 days, for The International 2015, Valve's Dota2's annual tournament. A game where at its core, 5 virtual magical characters bash 5 other virtual magical characters until victory. All watched by [20M](http://www.polygon.com/2014/7/29/5949773/dota-2-the-international-tournament-20-million-viewers) global viewers.
+This is the prize pool, after only 1 month, for The International 2015, Valve's Dota2's annual tournament. Dota 2 is a multiplayer online game where at its core, 5 virtual magical characters bash 5 other virtual magical characters until victory. All watched by [20M](http://www.polygon.com/2014/7/29/5949773/dota-2-the-international-tournament-20-million-viewers) global viewers.
 
 25% of compendium sales goes towards the prize pool, an in-game item granting various effects. But really, this is about fans of the hugely popular Dota2 engaging with the game's marquee tournament. Where they get to see the world's 16 best teams of 5 players from around the world compete for historic money.
+
+*A similar tournament for League of Legends*
+[{% img https://cdn3.vox-cdn.com/thumbor/H87xKclMEt0k9MszL4YwhbSuTHg=/24x0:1065x586/1280x720/cdn0.vox-cdn.com/uploads/chorus_image/image/37790004/league_of_legends_world_championships_staples_crowd.0.jpg %}](http://www.polygon.com/2014/9/1/6094129/league-of-legends-world-championship-poised-to-sell-out-sangam-stadium)
 
 **The speed of growth has been immense.**
 
@@ -50,13 +53,13 @@ The FIFA 2014 World Cup comes in with a whopping [$476m](http://www.reuters.com/
 
 Of course, this 'analysis' is almost laughably rudimentary. What about sponsorships and broadcasting rights? Merchandise? Event tickets? Endorsements? What about events that are the culmination of a season, such as the Champions League, or the NFL's superbowl, or the NBA Playoffs, or any other number of huge sporting events. The list goes on.
 
-But the point is to demonstrate the already massive scale of competitive gaming and gaming in general. Remember, Dota2 is just one game in a list of many. Take a look at Blizzard's Starcraft 2, or Riot's League of legends [(with 67m+ monthly players](http://www.polygon.com/2014/1/27/5350944/league-of-legends-has-27-million-daily-active-players) - twitter is at 302 million for comparison!) and you can see big tournaments for a huge audience. And if we take a closer look, not only are those other areas of revenue generation doing well in their own rights, but surely as the landscape matures will catch up.
+But the point is to demonstrate the already massive scale of competitive gaming and gaming in general. Remember, Dota2 is just one game in a list of many. Take a look at Blizzard's Starcraft 2, or Riot's League of legends [(with 67m+ monthly players in Jan 2014](http://www.polygon.com/2014/1/27/5350944/league-of-legends-has-27-million-daily-active-players) - twitter is at [302 million](https://about.twitter.com/company) for comparison!) and you can see big tournaments for a huge audience. And if we take a closer look, not only are those other areas of revenue generation doing well in their own rights, but surely as the landscape matures will catch up.
 
 ### **What's causing the growth?**
 
 **The game industry itself is huge.**
 
-Global revenue of the video game industry was [$100B in 2014](http://www.gartner.com/newsroom/id/2614915)- nearly [3 times the movie industry](http://www.mpaa.org/wp-content/uploads/2015/03/MPAA-Theatrical-Market-Statistics-2014.pdf). [Grand Theft Auto V made $1B in 3 days](http://www.ign.com/articles/2013/09/20/gta-5-sales-hit-1-billion-in-three-days), while Minecraft was sold for [$2.5B](http://www.polygon.com/2014/9/15/6151559/microsoft-buys-minecraft-mojang) to Microsoft. Developers of games such as Clash of Clans and Candy Crush make an [obscene amount of money](http://venturebeat.com/2015/03/24/clash-of-clans-developer-supercells-revenues-tripled-in-2014/). Candy Crush developer King made $2.26B in revenue in 2014. Clash of Clans developer made 10x the revenue per employee tech giant Google.
+Global revenue of the video game industry was [$100B in 2014](http://www.gartner.com/newsroom/id/2614915)- nearly [3 times the movie industry](http://www.mpaa.org/wp-content/uploads/2015/03/MPAA-Theatrical-Market-Statistics-2014.pdf). [Grand Theft Auto V made $1B in 3 days](http://www.ign.com/articles/2013/09/20/gta-5-sales-hit-1-billion-in-three-days), while Minecraft was sold for [$2.5B](http://www.polygon.com/2014/9/15/6151559/microsoft-buys-minecraft-mojang) to Microsoft. Developers of games such as Clash of Clans and Candy Crush make an [obscene amount of money](http://venturebeat.com/2015/03/24/clash-of-clans-developer-supercells-revenues-tripled-in-2014/). Candy Crush developer King made $2.26B in revenue in 2014. Clash of Clans developer made 10x the revenue per employee tech giant Google. League of Legends makes [$127m a month](http://venturebeat.com/2015/03/24/dota-2-makes-18m-per-month-for-valve-but-league-of-legends-makes-that-much-every-5-days/).
 
 This doesn't necessarily all lead to more competitive gaming, but games being thoroughly main stream means that the concept of playing video games is hardly foreign.
 
@@ -95,7 +98,16 @@ We've talked about the size of Twitch, but there's also huge levels of productio
 
 ** There's Gaming Organisations **
 
+[{% img https://pbs.twimg.com/profile_images/1381434116/Natus_Vincere_LOGO1.jpg 120 %}](https://twitter.com/natusvincere)
+[{% img https://pbs.twimg.com/profile_images/571159022707826688/KOf0KAZl.jpeg 120 %}](https://twitter.com/TeamLiquidPro)
+[{% img https://pbs.twimg.com/profile_images/378800000680580648/26078ca2aca3126f8badc73621f2191b_400x400.jpeg 120 %}](https://twitter.com/EvilGeniuses)
+[{% img https://pbs.twimg.com/profile_images/578590228333527040/ykjZVnXu_400x400.jpeg 120 %}](https://twitter.com/FNATIC)
+[{% img https://pbs.twimg.com/profile_images/564966290494722049/PIsew-Zt_400x400.png 120 %}](https://twitter.com/Cloud9gg)
+[{% img https://pbs.twimg.com/profile_images/2582930654/mvxuu221v3w6vjuzgjvb_400x400.jpeg 120 %}](https://twitter.com/invgaming)
+
+
 If you follow the esports scene - there are certain names that appear frequently and across games. Team Liquid, Evil Geniuses, Na`Vi, Fnatic, Cloud9, Invictus Gaming are some of the more well known organisations, but there are many more.
+
 
 These esports organisations pick up players and teams, who take their name when playing.
 This has a number of advantages - the organisation name usually has a history in the scene, and so will bring fans and reputability. Perhaps more importantly the organisation will help organise sponsors, travel arrangements to tournaments. It's fairly common for the organization to pay a salary to the players, helping them focus on their game, and reduce the volatility of prize money earnings. In some cases the salary can be quite substantial, but perhaps more interestingly, some players are finding that streaming can be [far more lucrative](http://www.ongamers.com/articles/we-play-here-so-you-don-t-have-to-embarrass-yourse/1100-2309/) than playing professionally.
@@ -133,7 +145,25 @@ You've probably guessed where this is going - E-Sports betting is huge, and natu
 
 There are other sites too. [https://vulcun.com/](https://vulcun.com/) emerged recently - claiming to have paid out $1.6m in the last 3 months, with a $10m total prize pool. It's a slick website at least, and has seen coverage through major sponsorship of recent teams and tournaments. It works like fantasy sports - allowing you to choose players for your team, and then enter those teams into leagues. Placing highly will win your rewards, and most of the highest rewarding leagues have some sort of buy in.
 
-*Vulcun.*
+*Vulcun*
 {% img /images/esports/vulcun.png %}
 
 
+** And other third party websites. **
+
+As the audience grows, all manner of niche third party sites are springing up. Coaching through [https://dotacoach.org/](https://dotacoach.org/). Hugely detailed [beginner guides](https://purgegamers.true.io/g/dota-2-guide/). Extensive community wikis for the [game itself](http://dota2.gamepedia.com/Dota_2_Wiki) and the [competitive scene](http://wiki.teamliquid.net/dota2). [Countless](http://www.datdota.com/blog) [well written](http://team-dignitas.net/articles/blogs/dota/1092/dota-2-ultimate-guide-to-warding) [blogs](https://chaqdota.wordpress.com/2013/09/05/chaqs-ultimate-guide-to-advanced-solo-middle/) [on a variety](https://ziedota.wordpress.com/) [of topics](http://steamcommunity.com/sharedfiles/filedetails/?id=211882174).
+
+Some sites are very sophisticated and well designed. [Dotabuff](http://www.dotabuff.com/) deserves a special mention. Dotabuff provides detailed analysis and stats for all Dota2 games - it tracks everything you did in game, how well you played and can create trends across both your games and the entire player base. Think [http://www.stats.com/](http://www.stats.com/) or [http://www.optasports.com/](http://www.optasports.com/) with a modern user friendly UI. They provide all this for what a quick estimate based off their [recent games screen](http://www.dotabuff.com/matches) would mean ~140,000 games per day processed within minutes.
+
+*Dotabuff*
+{% img /images/esports/trend.png %}
+{% img /images/esports/build.png %}
+{% img /images/esports/average.png %}
+
+The experience is really quite thorough as an analytical tool for your own games. It lets you filter by the character you choose, when you played it, your skill level, match duration and many more - allowing you to track a variety of metrics to both help improve your game, and entertain the stat lovers. This level of polish and attention to detail is the new default for video game related services.
+
+Sites like dotabuff can also help competitive players analyze how their opponents play. As the seriousness of video games increases - the market for tools and similar sites will grow with it.
+
+### ** I've had enough! **
+
+I wanted to give a taste of how I currently see the industry. I've barely scratched the surface of opportunities and changes happening, and I'm sure this piece has a ton of mistakes. But hopefully I've conveyed a tangible sense that this industry is real, growing and to be taken seriously - regardless of whether it's something that interests you personally. Technology often leads to culture shifts - and I think the key point here - is the way society creates and consumes entertainment. Distributed, personal and engaging is the future, and that's why E-sports are taking off.
