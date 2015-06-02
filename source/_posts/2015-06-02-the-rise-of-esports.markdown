@@ -66,12 +66,16 @@ This doesn't necessarily all lead to more competitive gaming, but games being th
 
 **Twitch, YouTube and Social Media leads to huge engagement.**
 
-Anyone can start posting content online and become wildly popular. In the gaming world, there are real celebrities making huge amounts of money from streaming themselves playing video games. The most notable example is [PewDiePie](https://twitter.com/pewdiepie). His 5.9 Million twitter followers puts him firmly with the names of biggest celebrities in the world. The failure of traditional media to capture his popularity merely highlights the shift in reporting that's happening. Compare Tiger Woods at [4.5M followers](https://twitter.com/TigerWoods). Beyonce at [14M](https://twitter.com/Beyonce). Kobe Bryant at [6.6M](https://twitter.com/kobebryant). Rafa Nadal at [7.9M](https://twitter.com/kobebryant). Leonardo DiCaprio with [12.8M](https://twitter.com/LeoDiCaprio). His [instagram](https://instagram.com/pewdiepie/) account has 4.2m followers. PewDiePie's youtube account has an utterly ridiculous [37 Million](https://www.youtube.com/user/PewDiePie) subscribers.
+Anyone can start posting content online and become wildly popular. In the gaming world, there are real celebrities making huge amounts of money from streaming themselves playing video games. The most notable example is [PewDiePie](https://twitter.com/pewdiepie).
+His 5.9 Million twitter followers puts him firmly with the names of biggest celebrities in the world. The failure of traditional media to capture his popularity merely highlights the shift in reporting that's happening.
+Compare Tiger Woods at [4.5M followers](https://twitter.com/TigerWoods). Beyonce at [14M](https://twitter.com/Beyonce). Kobe Bryant at [6.6M](https://twitter.com/kobebryant). Rafa Nadal at [7.9M](https://twitter.com/kobebryant). Leonardo DiCaprio with [12.8M](https://twitter.com/LeoDiCaprio).
+His [instagram](https://instagram.com/pewdiepie/) account has 4.2m followers. PewDiePie's youtube account has an utterly ridiculous [37 Million](https://www.youtube.com/user/PewDiePie) subscribers. By far the most on youtube, holding the top spot since December 2013.
 
 An extreme example, But an extreme example of a real underlying trend. Content is becoming distributed. It's easier than ever for individuals to reach huge audiences through platforms such as youtube and twitch. Last year, [Twitch broke 100M unique monthly viewers](http://www.twitch.tv/year/2014), leading Amazon to acquire them for [over $1 Billion](http://techcrunch.com/2014/08/25/amazon-will-buy-twitch-for-over-1-billion/). When you consider Netflix's Market Cap of [$35B](https://www.google.com/finance?q=NASDAQ:NFLX), and the relative size of the video game industry, then perhaps the price of twitch looks almost modest.
 
 The huge viewership means that tournaments of the biggest games have a captive audience. Beyond The Summit, one of many Dota2 studios providing content and streaming commentary for the game's competitive scene, is Twitch's [3rd most viewed channel](https://socialblade.com/twitch/user/beyondthesummit). Their popularity allows them to [host $300k tournaments](http://dota2.prizetrac.kr/thesummit3) with the best teams in the world.
-It's also very common for professional gamers to engage with their fans by streaming them playing the game in the regular, non competitive modes - often with commentary. Subscriber and donation money supplement their income and help keep them popular. They can easily engage with fans through Twitch chat, Reddit, twitter and other social media - and can show case their personality in casual games, while also showing of their skill in comparison to regular players.
+It's also very common for professional gamers to engage with their fans by streaming themselves playing the game in the regular, non competitive modes - often with commentary. Subscriber and donation money supplement their income and help keep them popular.
+They can easily engage with fans through Twitch chat, Reddit, twitter and other social media - and can show case their personality in casual games, while also showing of their skill in comparison to regular players.
 You can understand the popularity of such streams and the entertainment to their fans by likening it to Ronaldo or Messi broadcasting themselves playing 5-a-side with their friends while joking around.
 
 **Gaming is mainstream.**
@@ -89,12 +93,12 @@ The examples will bias in favor of Dota2 - as that's the area I'm most familiar 
 **We're going mobile.**
 
 [Mobile game are overtaking console games](http://fortune.com/2015/01/15/mobile-console-game-revenues-2015/). Traditionally, mobile games have been casual. Angry Birds, Candy Crush, and Clash of Clans rule the market.
-But there's room for more competitive, multiplayer, skill based games in the mould of Dota2, Starcraft and Counter Strike. Latencies and bandwidth are increasingly becoming amenable to such types of gaming, and it will surely be possible to shrink down a game, simplifying the controls, such that the teamwork and strategic awareness - which is what really makes the most competitive games thrive - is brought out.
+But there's room for more competitive, multiplayer, skill based games in the mould of Dota2, StarCraft and Counter Strike. Latencies and bandwidth are increasingly becoming amenable to such types of gaming. It will surely be possible to shrink down a game and simplify the controls, so that the teamwork and strategic awareness is brought out - the real core of a thriving competitive game.
 
 Heartstone was recently released on smart phones, a digital card game made by Blizzard.
 [{% img https://cdn3.vox-cdn.com/thumbor/e2A4quoGMh4OKP2abRSH3cIrPIc=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3605148/HS-on-Phone-3.0.png %}](http://www.theverge.com/2015/4/14/8414229/hearthstone-iphone-android-smartphones)
 
- The game was already thriving, with tournaments and large Twitch viewership. Professional player 'TrumpSC' peaked at [77k](http://www.goldper10.com/stat/1530-hearthstone-streamer-stats-march-april-2015.html) concurrent viewers during April. The turn based nature of the game, with few moving parts relative to other games, makes it perfect for mobile - and will see the game grow beyond the [30M](http://www.polygon.com/2015/5/5/8554265/hearthstone-player-count-hits-30-million) players it already commands.
+ The game was already flourishing, with tournaments and large Twitch viewership. Professional player 'TrumpSC' peaked at [77k](http://www.goldper10.com/stat/1530-hearthstone-streamer-stats-march-april-2015.html) concurrent viewers during April 2015. The turn based nature of the game, with few moving parts relative to other games, makes it perfect for mobile - and will see the game grow beyond the [30M](http://www.polygon.com/2015/5/5/8554265/hearthstone-player-count-hits-30-million) players it already commands.
 
  Allowing regular gamers, a deep strategic multiplayer game, during spare moments of the day such as commuting is a hugely untapped market.
 
@@ -103,13 +107,14 @@ Heartstone was recently released on smart phones, a digital card game made by Bl
 We've talked about the size of Twitch, but there's also huge levels of production that go into the content covering tournaments. Camera angles, live commentary, statistics, pre and post analysis, player interviews, video and sound control. All traditional areas of sport broadcasting apply. Think ESPN, worth [50B+](http://www.forbes.com/sites/kurtbadenhausen/2014/04/29/the-value-of-espn-surpasses-50-billion/).
 A prominent example is [Beyond The Summit](https://twitter.com/beyondthesummit) for Dota2. They send teams across the world to various events to stream them live, building hype and engaging with fans.
 
-A somewhat overlooked aspect of what makes an e-sport take off is how entertaining it is to watch. Traditional sports shine here - they combine accessibility for newcomers (just put the ball in the goal!), with much deeper nuance for regular fans. E-sports are catching up - games like Dota2 have invested a lot in making each ability have unique and distinctive sound effects and animations to make the game easier to follow.
+An e-sport needs to be entertaining to watch. Traditional sports shine here - they combine accessibility for newcomers (just put the ball in the goal!), with much deeper nuance for regular fans. E-sports are catching up - games like Dota2 have invested a lot in making each ability have unique and distinctive sound effects and animations to make the game easier to follow.
 
-{% img /images/esports/rampage.png %}
+{% img /images/esports/rampage.png 795 %}
+{% img /images/esports/cswin.png 795 %}
 
 Games have clear indicators in game as to who might be leading, and the quality of accompanying commentary gets more professional and sophisticated every year.
 
-** There's Gaming Organisations **
+** Brands and Pro teams. **
 
 [{% img https://pbs.twimg.com/profile_images/1381434116/Natus_Vincere_LOGO1.jpg 120 %}](https://twitter.com/natusvincere)
 [{% img https://pbs.twimg.com/profile_images/571159022707826688/KOf0KAZl.jpeg 120 %}](https://twitter.com/TeamLiquidPro)
@@ -124,7 +129,7 @@ Team Liquid, Evil Geniuses, Na`Vi, Fnatic, Cloud9, Invictus Gaming are some of t
 
 
 These esports organisations pick up players and teams, who take their name when playing.
-This has a number of advantages - the organisation name usually has a history in the scene, and so will bring fans and reputability. Perhaps more importantly the organisation will help organise sponsors, travel arrangements to tournaments. It's fairly common for the organization to pay a salary to the players, helping them focus on their game, and reduce the volatility of prize money earnings. In some cases the salary can be quite substantial, but perhaps more interestingly, some players are finding that streaming can be [far more lucrative](http://www.ongamers.com/articles/we-play-here-so-you-don-t-have-to-embarrass-yourse/1100-2309/) than playing professionally.
+This has a number of advantages - the organisation name usually has a history in the scene, and so will bring fans and reputability. Perhaps more importantly the organisation will help organise sponsors and travel arrangements to tournaments. It's fairly common for the organization to pay a salary to the players, helping them focus on their game, and reduce the volatility of prize money earnings. In some cases the salary can be quite substantial, but perhaps more interestingly, some players are finding that streaming can be [far more lucrative](http://www.ongamers.com/articles/we-play-here-so-you-don-t-have-to-embarrass-yourse/1100-2309/) than playing professionally.
 
 The brand and marketability of these esports teams will only grow in the future. Team branded merchandise is [common](http://shop.fnatic.com/) and is yet another way for the organisations to engage with fans.
 
@@ -133,7 +138,7 @@ As salaries and budgets grow, we're likely to see regulatory bodies similar to t
 ** Plenty of Merchandise **
 
 We've discussed that gaming is larger than the movie industry. Consider that Disney makes [$1B a quarter](http://thewaltdisneycompany.com/sites/default/files/reports/q2-fy15-earnings.pdf) from merchandise from popular brands like Frozen and The Avengers. Disney have huge amounts of experience advertising and distributing their products, and contracts with stores worldwide, but it does give an idea of where the industry might be heading.
-Is it really so unrealistic to suggest that children would have fluffy real versions of their favorite video game characters over movie characters, given the number of hours they spend playing? Anyone who was at school through the Pokemon craze can attest to how quickly characters from an engaging world can blow up.
+Is it really so unrealistic to suggest that children would have fluffy real versions of their favorite video game characters over movie characters, given the number of hours they spend playing? Anyone who was at school through the Pokémon craze can attest to how quickly characters from an engaging world can circulate.
 
 But perhaps Disney is the wrong example to learn from. While game creators are [slowly](https://na.merch.riotgames.com/en/) [catching on](http://store.valvesoftware.com/index.php?g=10), much of the explosion of merchandise is likely to come from decentralised individuals using sites such as Etsy (selling [nearly $2B](http://venturebeat.com/2015/03/04/etsys-54m-members-drove-1-93b-in-sales-last-year/) of products on their platform in 2014). The question is how tangential does a product need to be to avoid impinging on the intellectual property of the game creators.
 
@@ -142,7 +147,7 @@ But perhaps Disney is the wrong example to learn from. While game creators are [
 
 This whole piece has been a discussion of the huge market of games played in a virtual world. These virtual worlds have virtual merchandise too, known as cosmetics.
 Cosmetics are the primary revenue driver for many games, particularly Valve's Dota2 and CS:GO. The basic idea is if your character has a sword, then you can show off in the game by purchasing a sword that functions identically, but has flames bursting from the hilt while a golden unicorn dances around the blade. Some people really don't care, others want to show off how rare and expensive their flaming unicorn dagger is, and others just like it aesthetically.
-But regardless, it's a great business model - the game can be free, but profitable, and all without negatively affecting game play. Being software, there are endless aspects of the game that can be customised, leading to a very real luxury market. Dota2 in particularly has success with customised weapons, armor, new animations, UI changes, in game voice changes, pets and loading screens.
+But regardless, it's a great business model - the game can be free, wildly profitable, and all without negatively affecting game play. Being software, there are endless aspects of the game that can be customised, leading to a very real luxury market. Dota2 in particularly has success with customised weapons, armor, new animations, UI changes, in game voice changes, pets and loading screens.
 
 Items can regularly reach [hundreds of dollars](http://csgostash.com/), with one Dota2 item in particular reaching [$38k](http://www.therichest.com/rich-list/most-popular/10-of-the-most-expensive-virtual-items-in-video-games/7/). One glance at [high end art auctions](http://www.theguardian.com/news/datablog/2015/feb/10/the-10-most-expensive-paintings-ever-sold) should convince you that spending on things with aesthetic value can reach large amounts indeed.
 
@@ -154,14 +159,14 @@ Cosmetics are often designed and created by the community - Valve paid out [$57+
 
 ** Betting **
 
-Traditional sports are no stranger to gambling. The two activities have likely been entwined since the dawn of civilization. In the UK, betting companies such as Ladbrokes and William Hill are very familiar faces among shops - and have a big presence online through competitors like bet365 and paddy power - often taking prominent advertising slots for major sporting events.
+Traditional sports are no stranger to gambling. The two activities have likely been entwined since the dawn of civilization. In the UK, betting companies such as Ladbrokes and William Hill are very familiar faces among shops - and have a big presence online through competitors like bet365 and Paddy Power - often taking prominent advertising slots for major sporting events.
 
-You've probably guessed where this is going - E-Sports betting is huge, and naturally, growing quickly with the scene. Sites like [http://dota2lounge.com/](http://dota2lounge.com/) let you place bets on competitive games by using your in game items - which have a real liquid monetary value due to the steam marketplace. The odds are determined by the automatically adjusting based on how people are voting, and usually end up reasonably accurate. If we pick a recent game, such as the final of the European qualifier for The International 2015, we see that [~50500 people placed ~236000 items](http://dota2lounge.com/match?m=6913). This was a popular game, but often there can be dozens of games per day.
+You've guessed where this is going - E-Sports betting is huge, and naturally, growing quickly with the scene. Sites like [http://dota2lounge.com/](http://dota2lounge.com/) let you place bets on competitive games by using your in game items - which have a real liquid monetary value due to the steam marketplace. The odds are determined by automatically adjusting based on how people are betting, and usually end up reasonably accurate. If we pick a recent game, such as the final of the European qualifier for The International 2015, we see that [~50500 people placed ~236000 items](http://dota2lounge.com/match?m=6913). This was a popular game, but often there can be dozens of games per day. These are real businesses.
 
 *The UI for placing a bet on dota2 lounge (notice the dollar value!)*
 {% img /images/esports/dota2lounge.png %}
 
-There are other sites too. [https://vulcun.com/](https://vulcun.com/) emerged recently - claiming to have paid out $1.6m in the last 3 months, with a $10m total prize pool. It's a slick website at least, and has seen coverage through major sponsorship of recent teams and tournaments. It works like fantasy sports - allowing you to choose players for your team, and then enter those teams into leagues. Placing highly will win your rewards, and most of the highest rewarding leagues have some sort of buy in.
+There are other sites too. [Vulcun](https://vulcun.com/) emerged recently - claiming to have paid out $1.6m in the last 3 months, with a $10m total prize pool. It's a slick website at least, and has seen coverage through major sponsorship of recent teams and tournaments. It works like fantasy sports - allowing you to choose players for your team, and then enter those teams into leagues. Placing highly will win you rewards, and most of the highest rewarding leagues have some sort of buy in.
 
 *Vulcun*
 {% img /images/esports/vulcun.png %}
@@ -171,19 +176,19 @@ There are other sites too. [https://vulcun.com/](https://vulcun.com/) emerged re
 
 As the audience grows, all manner of niche third party sites are springing up. Coaching through [https://dotacoach.org/](https://dotacoach.org/). Hugely detailed [beginner guides](https://purgegamers.true.io/g/dota-2-guide/). Extensive community wikis for the [game itself](http://dota2.gamepedia.com/Dota_2_Wiki) and the [competitive scene](http://wiki.teamliquid.net/dota2). [Countless](http://www.datdota.com/blog) [well written](http://team-dignitas.net/articles/blogs/dota/1092/dota-2-ultimate-guide-to-warding) [blogs](https://chaqdota.wordpress.com/2013/09/05/chaqs-ultimate-guide-to-advanced-solo-middle/) [on a variety](https://ziedota.wordpress.com/) [of topics](http://steamcommunity.com/sharedfiles/filedetails/?id=211882174).
 
-Some sites are very sophisticated and well designed. [Dotabuff](http://www.dotabuff.com/) deserves a special mention. Dotabuff provides detailed analysis and stats for all Dota2 games - it tracks everything you did in game, how well you played and can create trends across both your games and the entire player base. Think [http://www.stats.com/](http://www.stats.com/) or [http://www.optasports.com/](http://www.optasports.com/) with a modern user friendly UI. They provide all this for what a quick estimate based off their [recent games screen](http://www.dotabuff.com/matches) would mean ~140,000 games per day processed within minutes.
+Some sites are very sophisticated and well designed. [Dotabuff](http://www.dotabuff.com/) deserves a special mention. Dotabuff provides detailed analysis and stats for all Dota2 games - it tracks numerous in game metrics that suggest how well you played and can create trends across your games and the entire player base. Think [http://www.stats.com/](http://www.stats.com/) or [http://www.optasports.com/](http://www.optasports.com/) with a highly explorable modern user-friendly UI. They provide all this for over 140,000 games per day, with all the stats available within minutes from the game ending. (Estimated from their [recent games screen](http://www.dotabuff.com/matches)). This is real technology providing real value.
 
 *Dotabuff*
 {% img /images/esports/trend.png %}
 {% img /images/esports/build.png %}
 {% img /images/esports/average.png %}
 
-The experience is really quite thorough as an analytical tool for your own games. It lets you filter by character, time played, skill level, match duration and even geographic region - allowing you to track a variety of metrics to both help improve your game, and entertain the stat lovers.
+The experience is really quite thorough as an analytical tool for your own games. It lets you filter by character, time played, skill level, match duration and even geographic region - helping you improve your game, or just entertain the stat lovers.
 This level of polish and attention to detail is the new default for video game related services.
 
 Sites like dotabuff can also help competitive players analyze how their opponents play. As the seriousness of video games increases - the market for tools and similar sites will grow with it.
 
 ### ** In summary... **
 
-I wanted to give a taste of how I currently see the industry. I've barely scratched the surface of opportunities and changes happening. Hopefully I've conveyed a tangible sense that this industry is real, growing and to be taken seriously - regardless of whether it's something that interests you personally. Technology often leads to culture shifts - and the key point here - is the way society creates and consumes entertainment.
+I wanted to give a taste of how I currently see the industry. I've barely scratched the surface of opportunities and changes happening. Hopefully I've conveyed a tangible sense that this industry is real, growing and to be taken seriously - regardless of whether it's something that interests you personally. Technology often leads to culture shifts - the key here being - the way society creates and consumes entertainment.
 Distributed, personal and engaging is the future, and that's why E-sports are taking off.
