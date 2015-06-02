@@ -164,6 +164,6 @@ The experience is really quite thorough as an analytical tool for your own games
 
 Sites like dotabuff can also help competitive players analyze how their opponents play. As the seriousness of video games increases - the market for tools and similar sites will grow with it.
 
-### ** I've had enough! **
+### ** In summary... **
 
 I wanted to give a taste of how I currently see the industry. I've barely scratched the surface of opportunities and changes happening, and I'm sure this piece has a ton of mistakes. But hopefully I've conveyed a tangible sense that this industry is real, growing and to be taken seriously - regardless of whether it's something that interests you personally. Technology often leads to culture shifts - and I think the key point here - is the way society creates and consumes entertainment. Distributed, personal and engaging is the future, and that's why E-sports are taking off.

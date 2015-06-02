@@ -15,4 +15,30 @@ body > header {
     color: $subtitle-color;
     font-weight: normal;
   }
+
+  .me {
+    width: 4em;
+  }
+
+  .twitterlink {
+    font-size: 0.7em;
+    a, a:visited, a:hover {
+      color: $title_color;
+      text-decoration: none;
+    }
+  }
+
+  .fullheader {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .about {
+    flex: 1;
+    margin-bottom: -2.5em;
+  }
+
+  .title {
+    flex: 5;
+  }
 }
