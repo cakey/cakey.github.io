@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The rise of E-sports."
-date: 2015-05-6 22:49:55 -0700
+date: 2015-06-02 22:49:55 -0700
 comments: true
 categories:
 ---
