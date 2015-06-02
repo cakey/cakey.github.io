@@ -2,19 +2,23 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://cakey.github.io/blog/2014/10/27/writing-is-hard/</loc>
-        <lastmod>2014-10-27T23:09:16-07:00</lastmod>
+        <lastmod>2015-05-18T17:21:20-07:00</lastmod>
     </url>
     <url>
         <loc>http://cakey.github.io/blog/2015/04/29/uber-for-startup-taglines/</loc>
         <lastmod>2015-04-29T23:10:12-07:00</lastmod>
     </url>
     <url>
+        <loc>http://cakey.github.io/blog/2015/06/02/the-rise-of-esports/</loc>
+        <lastmod>2015-06-02T03:50:49-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://cakey.github.io/blog/archives/</loc>
-        <lastmod>2015-04-29T23:10:12-07:00</lastmod>
+        <lastmod>2015-06-02T03:50:49-07:00</lastmod>
     </url>
     <url>
         <loc>http://cakey.github.io/</loc>
-        <lastmod>2015-04-29T23:10:12-07:00</lastmod>
+        <lastmod>2015-06-02T03:50:49-07:00</lastmod>
     </url>
     <url>
         <loc>http://cakey.github.io/robots.txt</loc>
