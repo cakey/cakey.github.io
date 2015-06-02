@@ -119,7 +119,8 @@ Games have clear indicators in game as to who might be leading, and the quality 
 [{% img https://pbs.twimg.com/profile_images/2582930654/mvxuu221v3w6vjuzgjvb_400x400.jpeg 120 %}](https://twitter.com/invgaming)
 
 
-If you follow the esports scene - there are certain names that appear frequently across games. Team Liquid, Evil Geniuses, Na`Vi, Fnatic, Cloud9, Invictus Gaming are some of the more well known organisations, but there are many more.
+If you follow the esports scene - there are certain names that appear frequently across games.
+Team Liquid, Evil Geniuses, Na`Vi, Fnatic, Cloud9, Invictus Gaming are some of the more well known organisations.
 
 
 These esports organisations pick up players and teams, who take their name when playing.
@@ -131,18 +132,22 @@ As salaries and budgets grow, we're likely to see regulatory bodies similar to t
 
 ** Plenty of Merchandise **
 
-We've discussed that gaming is larger than the movie industry. Consider that Disney makes [$1B a quarter](http://thewaltdisneycompany.com/sites/default/files/reports/q2-fy15-earnings.pdf) from merchandise from popular brands like Frozen and The Avengers. Of course, this is unfair comparison, Disney have huge amounts of experience advertising and distributing their products, and contracts with stores worldwide. But it does give an idea of where the industry might be heading. Is it really so unrealistic to suggest that children would have fluffy real versions of their favorite video game characters over movie characters, given the number of hours they spend playing? Anyone who was at school through the Pokemon craze can attest to how quickly characters from an engaging world can blow up.
+We've discussed that gaming is larger than the movie industry. Consider that Disney makes [$1B a quarter](http://thewaltdisneycompany.com/sites/default/files/reports/q2-fy15-earnings.pdf) from merchandise from popular brands like Frozen and The Avengers. Disney have huge amounts of experience advertising and distributing their products, and contracts with stores worldwide, but it does give an idea of where the industry might be heading.
+Is it really so unrealistic to suggest that children would have fluffy real versions of their favorite video game characters over movie characters, given the number of hours they spend playing? Anyone who was at school through the Pokemon craze can attest to how quickly characters from an engaging world can blow up.
 
 But perhaps Disney is the wrong example to learn from. While game creators are [slowly](https://na.merch.riotgames.com/en/) [catching on](http://store.valvesoftware.com/index.php?g=10), much of the explosion of merchandise is likely to come from decentralised individuals using sites such as Etsy (selling [nearly $2B](http://venturebeat.com/2015/03/04/etsys-54m-members-drove-1-93b-in-sales-last-year/) of products on their platform in 2014). The question is how tangential does a product need to be to avoid impinging on the intellectual property of the game creators.
 
 
-** Cosmetics - Merchandise 2.0? **
+** Cosmetics - Digital fashion? **
 
-This whole piece has been a discussion of the huge market of games played in a virtual world. These virtual worlds have virtual merchandise too, known as cosmetics. Cosmetics are the primary revenue driver for many games, particularly Valve's Dota2 and CS:GO. The basic idea is if your character has a sword, then you can show off in the game by purchasing a sword that functions identically, but has flames bursting from the hilt while a golden unicorn dances around the blade. Some people really don't care, others want to show off how rare and expensive their flaming unicorn dagger is, and others just like it aesthetically. But regardless, it's a great business model - the game can be free, but profitable, and all without negatively affecting game play. Being software, there are endless aspects of the game that can be customised, leading to a very real luxury market. Dota2 in particularly has success with customised weapons, armor, new animations, UI changes, in game voice changes, pets, loading screens and many more.
+This whole piece has been a discussion of the huge market of games played in a virtual world. These virtual worlds have virtual merchandise too, known as cosmetics.
+Cosmetics are the primary revenue driver for many games, particularly Valve's Dota2 and CS:GO. The basic idea is if your character has a sword, then you can show off in the game by purchasing a sword that functions identically, but has flames bursting from the hilt while a golden unicorn dances around the blade. Some people really don't care, others want to show off how rare and expensive their flaming unicorn dagger is, and others just like it aesthetically.
+But regardless, it's a great business model - the game can be free, but profitable, and all without negatively affecting game play. Being software, there are endless aspects of the game that can be customised, leading to a very real luxury market. Dota2 in particularly has success with customised weapons, armor, new animations, UI changes, in game voice changes, pets and loading screens.
 
 Items can regularly reach [hundreds of dollars](http://csgostash.com/), with one Dota2 item in particular reaching [$38k](http://www.therichest.com/rich-list/most-popular/10-of-the-most-expensive-virtual-items-in-video-games/7/). One glance at [high end art auctions](http://www.theguardian.com/news/datablog/2015/feb/10/the-10-most-expensive-paintings-ever-sold) should convince you that spending on things with aesthetic value can reach large amounts indeed.
 
-Most items, however, are much cheaper, 50c - $2 is common. This puts it firmly in impulse purchase range, where gamers can start spending far more than they realise. Most that spend, however, would tell you that a few dollars spent in a free game was good value for the hundreds or thousands of hours spent playing.
+Most items, however, are much cheaper, 40c - $2 is common. This puts it firmly in impulse purchase range, where gamers can start spending far more than they realise.
+Most that spend, however, would tell you that a few dollars spent in a free game was good value for the hundreds or thousands of hours spent playing.
 
 Cosmetics are often designed and created by the community - Valve paid out [$57+m](http://www.rockpapershotgun.com/2015/01/30/steam-workshop-57-million-dollars/) to creators of in game items since 2011. 3D modelling skills and tools in the context of gaming will inevitably grow and present many opportunities for making money.
 
@@ -173,10 +178,12 @@ Some sites are very sophisticated and well designed. [Dotabuff](http://www.dotab
 {% img /images/esports/build.png %}
 {% img /images/esports/average.png %}
 
-The experience is really quite thorough as an analytical tool for your own games. It lets you filter by the character you choose, when you played it, your skill level, match duration and many more - allowing you to track a variety of metrics to both help improve your game, and entertain the stat lovers. This level of polish and attention to detail is the new default for video game related services.
+The experience is really quite thorough as an analytical tool for your own games. It lets you filter by character, time played, skill level, match duration and even geographic region - allowing you to track a variety of metrics to both help improve your game, and entertain the stat lovers.
+This level of polish and attention to detail is the new default for video game related services.
 
 Sites like dotabuff can also help competitive players analyze how their opponents play. As the seriousness of video games increases - the market for tools and similar sites will grow with it.
 
 ### ** In summary... **
 
-I wanted to give a taste of how I currently see the industry. I've barely scratched the surface of opportunities and changes happening, and I'm sure this piece has a ton of mistakes. But hopefully I've conveyed a tangible sense that this industry is real, growing and to be taken seriously - regardless of whether it's something that interests you personally. Technology often leads to culture shifts - and I think the key point here - is the way society creates and consumes entertainment. Distributed, personal and engaging is the future, and that's why E-sports are taking off.
+I wanted to give a taste of how I currently see the industry. I've barely scratched the surface of opportunities and changes happening. Hopefully I've conveyed a tangible sense that this industry is real, growing and to be taken seriously - regardless of whether it's something that interests you personally. Technology often leads to culture shifts - and the key point here - is the way society creates and consumes entertainment.
+Distributed, personal and engaging is the future, and that's why E-sports are taking off.
