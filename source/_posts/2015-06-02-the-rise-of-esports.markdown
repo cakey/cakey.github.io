@@ -51,9 +51,11 @@ The FIFA 2014 World Cup comes in with a whopping [$476m](http://www.reuters.com/
 
 ### **So what?**
 
-Of course, this is simplified. What about sponsorships and broadcasting rights? Merchandise? Event tickets? Endorsements? What about events that are the culmination of a season, such as the Champions League, or the NFL's superbowl, or the NBA Playoffs, or any other number of huge sporting events. The list goes on.
+Of course, this is simplified. What about sponsorships? Broadcasting rights? Merchandise? Event tickets? Endorsements? What about events that are the culmination of a season, such as the Champions League, or the NFL's superbowl, or the NBA Playoffs, or any other number of huge sporting events. The list goes on.
 
-But the point is to demonstrate the already massive scale of competitive gaming and gaming in general. Remember, Dota2 is just one game in a list of many. Take a look at Blizzard's Starcraft 2, or Riot's League of legends [(with 67m+ monthly players in Jan 2014](http://www.polygon.com/2014/1/27/5350944/league-of-legends-has-27-million-daily-active-players) - twitter is at [302 million](https://about.twitter.com/company) for comparison!) and you can see big tournaments for a huge audience. And if we take a closer look, not only are those other areas of revenue generation doing well in their own rights, but surely as the landscape matures will catch up.
+But the point is to demonstrate the already massive scale of competitive gaming and gaming in general. Remember, Dota2 is just one game in a list of many. Take a look at Blizzard's Starcraft 2, or Riot's League of legends [(with 67m+ monthly players in Jan 2014](http://www.polygon.com/2014/1/27/5350944/league-of-legends-has-27-million-daily-active-players) - twitter is at [302 million](https://about.twitter.com/company) for comparison!) and you can see big tournaments for a huge audience.
+And when we explore these related areas we will see competitive gaming catching up with traditional sports.
+
 
 ### **What's causing the growth?**
 
@@ -96,7 +98,7 @@ The examples will bias in favor of Dota2 - as that's the area I'm most familiar 
 [Mobile game are overtaking console games](http://fortune.com/2015/01/15/mobile-console-game-revenues-2015/). Traditionally, mobile games have been casual. Angry Birds, Candy Crush, and Clash of Clans rule the market.
 But there's room for more competitive, multiplayer, skill based games in the mould of Dota2, StarCraft and Counter Strike. Latencies and bandwidth are increasingly becoming amenable to such types of gaming. It will surely be possible to shrink down a game and simplify the controls, so that the teamwork and strategic awareness is brought out - the real core of a thriving competitive game.
 
-Heartstone was recently released on smart phones, a digital card game made by Blizzard.
+Hearthstone was recently released on smart phones, a digital card game made by Blizzard.
 [{% img https://cdn3.vox-cdn.com/thumbor/e2A4quoGMh4OKP2abRSH3cIrPIc=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3605148/HS-on-Phone-3.0.png %}](http://www.theverge.com/2015/4/14/8414229/hearthstone-iphone-android-smartphones)
 
  The game was already flourishing, with tournaments and large Twitch viewership. Professional player 'TrumpSC' peaked at [77k](http://www.goldper10.com/stat/1530-hearthstone-streamer-stats-march-april-2015.html) concurrent viewers during April 2015. The turn based nature of the game, with few moving parts relative to other games, makes it perfect for mobile - and will see the game grow beyond the [30M](http://www.polygon.com/2015/5/5/8554265/hearthstone-player-count-hits-30-million) players it already commands.
