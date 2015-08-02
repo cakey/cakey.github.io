@@ -101,7 +101,7 @@ But there's room for more competitive, multiplayer, skill based games in the mou
 Hearthstone was recently released on smart phones, a digital card game made by Blizzard.
 [{% img https://cdn3.vox-cdn.com/thumbor/e2A4quoGMh4OKP2abRSH3cIrPIc=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3605148/HS-on-Phone-3.0.png %}](http://www.theverge.com/2015/4/14/8414229/hearthstone-iphone-android-smartphones)
 
- The game was already flourishing, with tournaments and large Twitch viewership. Professional player 'TrumpSC' peaked at [77k](http://www.goldper10.com/stat/1530-hearthstone-streamer-stats-march-april-2015.html) concurrent viewers during April 2015. The turn based nature of the game, with few moving parts relative to other games, makes it perfect for mobile - and will see the game grow beyond the [30M](http://www.polygon.com/2015/5/5/8554265/hearthstone-player-count-hits-30-million) players it already commands.
+The game was already flourishing, with tournaments and large Twitch viewership. Professional player 'TrumpSC' peaked at [77k](http://www.goldper10.com/stat/1530-hearthstone-streamer-stats-march-april-2015.html) concurrent viewers during April 2015. The turn based nature of the game, with few moving parts relative to other games, makes it perfect for mobile - and will see the game grow beyond the [30M](http://www.polygon.com/2015/5/5/8554265/hearthstone-player-count-hits-30-million) players it already commands.
 
  Allowing regular gamers a deep strategic multiplayer game, during spare moments of the day such as commuting is a hugely untapped market.
 
