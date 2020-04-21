@@ -1,0 +1,6 @@
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/kiss-em"]
+	path = themes/kiss-em
+	url = https://github.com/pavel-pi/kiss-em.git
